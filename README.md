@@ -1,8 +1,8 @@
-#Economic-indicators-prediction-system
+# Economic-indicators-prediction-system
 The project implements a prediction system for economic indicators (GDP, inflation, unemployment rate) in Poland, based on statistical ARIMA/SARIMA algorithm and neural networks.
 The system forecasts future values of said indicators, based on their historical values.
 
-###Installing
+### Installing
 1. Download the source code or clone the repository using:
 ```
    git clone https://github.com/julkaminska/Economic-indicators-prediction-system.git
@@ -21,7 +21,7 @@ cd Economic-indicators-prediction-system/system_predykcji
 python.exe -m pip install -r requirements.txt
 ```
 
-###Executing program
+### Executing program
 1. Run the program from command line:
 * if not already, go to the project catalog:
 ```
@@ -32,6 +32,6 @@ cd Economic-indicators-prediction-system /system_predykcji
 streamlit run main_dir/gui_main.py
 ```
 
-##Author
+## Author
 Julia Kamińska
 email: 260519@student.pwr.edu.pl
