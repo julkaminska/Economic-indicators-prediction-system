@@ -1,0 +1,1 @@
+{"layers": ["Warstwa 1: L. neuronow: 12, Funkcja aktywacji: relu", "Warstwa 2: L. neuronow: 32, Funkcja aktywacji: relu", "Warstwa 3: L. neuronow: 64, Funkcja aktywacji: relu", "Warstwa 4: L. neuronow: 1, Funkcja aktywacji: linear"], "optimizer": "Adam", "lr": 0.001}
